@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afe1b62a-f10f-4a11-97ce-9c97198fd2c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CompanyEmpWage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/EmpWageBuilderUC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/EmpWageBuilderUC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/EmpWageBuilderUC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/EmpWageBuilderUC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/EmpWageBuilderUC5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/EmpWageBuilderUC6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/EmpWageBuilderUC7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/LineComparisonUC1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/LineComparisonUC2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/LineComparisonUC3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/LineComparisonUC4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmpWageBuilderArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmpWageBuilderObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmpWageBuilderUC8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Gambler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CompanyEmpWage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmpWageBuilderObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmpWageBuilderUC8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Gambler.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24ziBN3vMkoxmOhvVvmpoLJWQQV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../helloworld" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Gambling" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Search">
+    <configuration name="EmpWageBuilderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpWageBuilderArray" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpWageBuilderObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpWageBuilderObject" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpWageBuilderUC8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpWageBuilderUC8" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamblingUC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GamblingUC1" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Gambler" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EmpWageBuilderArray" />
+      <item itemvalue="Application.EmpWageBuilderObject" />
+      <item itemvalue="Application.EmpWageBuilderUC8" />
+      <item itemvalue="Application.Search" />
+      <item itemvalue="Application.GamblingUC1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Search" />
+        <item itemvalue="Application.EmpWageBuilderArray" />
+        <item itemvalue="Application.EmpWageBuilderObject" />
+        <item itemvalue="Application.EmpWageBuilderUC8" />
+        <item itemvalue="Application.GamblingUC1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe1b62a-f10f-4a11-97ce-9c97198fd2c1" name="Changes" comment="" />
+      <created>1644639687297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644639687297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
